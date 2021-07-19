@@ -15,7 +15,6 @@
     padding: 2rem;
     display: flex;
     color: var(--Bitcoin-Orange);
-
 }
 
 .icono_1{
@@ -23,8 +22,7 @@
     height: 12rem;
     margin-top: 1rem;
     margin-right: 2rem;
-    padding: 1rem;
-    
+    padding: 1rem; 
 }
 
 .descripcion{
@@ -61,8 +59,7 @@
     box-shadow: 2px 14px 17px 0px rgba(209,209,209,0.69);
     
     font-size: 5rem;
-    display: flex;
-    
+    display: flex; 
 }
 
 .img_AD{
@@ -103,7 +100,6 @@
 
 /*_______________________________________*/
 
-
 .Tercera-sec{
     width: 60rem;
     height: 60rem;
@@ -127,7 +123,6 @@
     margin: auto;
     margin-left: auto;
     margin-right: auto;
-
 }
 
 td,tr{
@@ -275,10 +270,141 @@ table{
     position: absolute;
     color: var(--Off-White);
     margin: 0rem auto;
-    padding: 17rem 10rem 0rem 20rem;
-    
-    
+    padding: 17rem 10rem 0rem 20rem;  
 }
+
+/*_______________________________________*/
+ 
+.Sexta_sec{
+    width: 95rem;
+    height: 150rem;
+    margin: auto;
+    margin-top: 9rem;
+}
+
+.texto_12{
+    color: var(--Warm-Black-1);
+    font-size: 7.5rem;
+    text-align: center;
+}
+
+.texto_13{
+    color: #757575;
+    font-size: 5rem;
+    text-align: center;
+    padding: 3rem; 
+}
+
+.cuadro_orange{
+    width: 40rem;
+    height: 13rem;
+    background-color: var(--Bitcoin-Orange);
+    margin: auto;
+    align-content: center;
+    margin-top: 6rem;
+    margin-left: 27rem;
+    border-radius: 3rem;
+    position: absolute;
+}
+
+.texto_cuadro{
+    font-size: 5rem;
+    color: var(--Just-White);
+    text-align: center;
+    align-items: center;
+    padding: 2.7rem 1rem 0rem 1rem;
+    font-weight: 500;
+}
+
+.ventas{
+    width: 60rem;
+    height: 80rem;
+    background-color: var(--Just-White);
+    border-radius: 3rem;
+    box-shadow: 0px 3px 21px -8px rgba(117,117,117,0.84);
+    margin: auto;
+    margin-top: 12rem;
+    padding: 12rem 2rem 1rem 2rem;
+ 
+}
+
+.pago{
+    width: 50rem;
+    height: 45rem;
+    margin: auto;
+}
+
+.texto_14{
+    font-size: 5rem;
+    color: var(--Warm-Black-1);
+    text-align: center;
+}
+
+.pago99{
+    width: 30rem;
+    display: flex;
+    margin: auto;
+    text-align: center;
+}
+
+.dolar-1{
+    font-size: 5rem;
+}
+
+.dolar_2{
+    font-size: 20rem;
+}
+
+.texto_15{
+    font-size: 4rem;
+    text-align: center;
+    color: #757575;
+}
+
+.boton_ventas{
+    width: 50rem;
+    height: 17rem;
+    background-color: var(--Off-White);
+    margin: auto;
+    margin-top: 3rem;
+    border: 0.5rem solid var(--Bitcoin-Orange);
+    border-radius: 2.5rem;
+    padding: 4.4rem 1rem 0rem 5rem;
+    display: flex;
+}
+
+.texto_16{
+    font-size: 5rem;
+}
+
+.flecha{
+    color: var(--Bitcoin-Orange);
+    font-size: 5rem;
+    padding-left: 3rem;
+}
+
+/*_______________________________________*/
+
+.FOOTER{
+    width: 100%;
+    height: 50rem;
+    background-color: #F7931A;
+    padding: 10rem 2rem 2rem 2rem;
+}
+
+.C_F{
+    width: 70rem;
+    height: 30rem;
+    margin: auto;
+    font-size: 6rem;
+    color: var(--Just-White);
+}
+
+
+
+
+
+
 
 
 
